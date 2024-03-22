@@ -1,0 +1,17 @@
+main>section{
+    display: flex;
+  gap:5% ;
+    margin: 8%;
+    
+}
+
+main>section>.About{
+padding-top: 5%;
+}
+main>section>.About>button{
+    background-color: orange;
+    color: white;
+    font-weight: bold;
+    padding: 8px 12px;
+    border-style: none;
+}
